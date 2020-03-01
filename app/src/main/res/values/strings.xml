@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Catalog Movie</string>
+    <string name="Movie">Movie</string>
+    <string name="TVshow">TV Show</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="change_language_settings">change_language</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="Judul_Movie"><u>Judul Film</u></string>
+    <string name="tahun"><u>Tahun</u></string>
+    <string name="bahasa"><u>Bahasa</u></string>
+    <string name="Detail_Movie"><u>Sinopsis</u></string>
+    <string name="todo">TODO</string>
+</resources>

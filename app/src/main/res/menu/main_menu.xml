@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/movie"
+        android:title="Movie"
+        android:icon="@drawable/ic_local_movies"/>
+    <item
+        android:id="@+id/tv"
+        android:title="tv"
+        android:icon="@drawable/ic_tv"/>
+    <item
+        android:id="@+id/favorite"
+        android:title="favorite"
+        android:icon="@drawable/ic_favorite"/>
+    <item
+        android:id="@+id/upcoming"
+        android:title="Upcoming"
+        android:icon="@drawable/ic_update"/>
+</menu>

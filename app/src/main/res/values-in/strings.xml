@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Katalog Film Saya</string>
+    <string name="Movie">Film</string>
+    <string name="TVshow">Acara TV</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="change_language_settings">Ubah Bahasa</string>
+    <string name="open">Buka</string>
+    <string name="close">Tutup</string>
+    <string name="Judul_Movie"><u>Judul Film</u></string>
+    <string name="tahun"><u>Tahun</u></string>
+    <string name="bahasa"><u>Bahasa</u></string>
+    <string name="Detail_Movie"><u>Penjelasan Film</u></string>
+    <string name="todo">TODO</string>
+
+</resources>
